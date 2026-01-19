@@ -1,0 +1,5 @@
+package com.dickiez.remider.reminder
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
